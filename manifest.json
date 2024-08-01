@@ -1,0 +1,20 @@
+{
+    "name" : "name",
+    "version" : "1.0.0",
+    "description": "Moddb favorite page realization",
+    "manifest_version": 3,
+    "author": "chuch",
+    "action": {
+        "default_popup" : "index.html"
+    },
+    "content_scripts": [
+        {
+            "matches" : ["https://www.moddb.com/games/*/addons", "https://www.moddb.com/games/*/addons/page*", "https://www.moddb.com/*/addons"],
+            "js" : ["content_scripts.js"]
+        }
+    ],
+    "permissions" : [
+        "storage",
+        "tabs"
+    ]
+}

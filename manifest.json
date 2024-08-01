@@ -9,7 +9,7 @@
     },
     "content_scripts": [
         {
-            "matches" : ["https://www.moddb.com/games/*/addons", "https://www.moddb.com/games/*/addons/page*", "https://www.moddb.com/*/addons"],
+            "matches" : ["https://www.moddb.com/games/*/addons", "https://www.moddb.com/games/*/addons/page*", "https://www.moddb.com/*addons"],
             "js" : ["content_scripts.js"]
         }
     ],

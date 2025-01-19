@@ -12,18 +12,22 @@ i've done all the parsing crap but didnt touch almost any front
 how to use - download zip, unzip to a folder, open chrome, go to extentions, "upload unpacked extension", chose the folder
 
 before adding mods - press this button
+
 ![image](https://github.com/user-attachments/assets/c3a8f779-d061-4117-9c0f-d133e68913cf)
 
 then you can add any mod you like by pressing the + button
+
 ![image](https://github.com/user-attachments/assets/ac91c997-a97a-4a06-9ab9-e81e5a7dca13)
 
 then use "see saved mods"
+
 ![image](https://github.com/user-attachments/assets/158405f2-f27c-448b-8080-a837813cd34a)
 
 voila!
+
 ![image](https://github.com/user-attachments/assets/49902009-603b-4eec-a298-2d611e86cc99)
 
 one day ill finish this project but for now it is in heavy beta
 
-NOTE: THERE ARE A LOT OF BUGS i didnt even touch the frontend
+NOTE: A LOT OF BUGS, i didnt even touch the frontend
 

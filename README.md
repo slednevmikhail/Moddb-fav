@@ -1,4 +1,4 @@
-История такая: я хотел сделать вкладку с избранным для тех кто любит полистать moddb а потом роняя кал искать что же он там листал такого, но верстку я не выношу и от нее у меня горит жепа
+![image](https://github.com/user-attachments/assets/0990974e-7097-4210-90b4-e623f2946c9e)История такая: я хотел сделать вкладку с избранным для тех кто любит полистать moddb а потом роняя кал искать что же он там листал такого, но верстку я не выношу и от нее у меня горит жепа
 Мейби ктото захочет сделать эту парашу и я буду с радостью ей пользоваться и кайфовать пж
 Дизайн по сути любой, мне похуй, мне бы просто не парашно оформленную вкладку
 
@@ -18,5 +18,10 @@ then you can add any mod you like by pressing the + button
 then use "see saved mods"
 ![image](https://github.com/user-attachments/assets/f3a01489-7af5-4755-9154-74c600556902)
 
+voila!
+![image](https://github.com/user-attachments/assets/49902009-603b-4eec-a298-2d611e86cc99)
+
 one day ill finish this project but for now it is in heavy beta
+
+NOTE: THERE ARE A LOT OF BUGS i didnt even touch the frontend
 

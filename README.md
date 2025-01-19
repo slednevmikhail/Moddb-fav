@@ -18,7 +18,7 @@ then you can add any mod you like by pressing the + button
 ![image](https://github.com/user-attachments/assets/ac91c997-a97a-4a06-9ab9-e81e5a7dca13)
 
 then use "see saved mods"
-![image](https://github.com/user-attachments/assets/f3a01489-7af5-4755-9154-74c600556902)
+![image](https://github.com/user-attachments/assets/158405f2-f27c-448b-8080-a837813cd34a)
 
 voila!
 ![image](https://github.com/user-attachments/assets/49902009-603b-4eec-a298-2d611e86cc99)
